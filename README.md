@@ -5,4 +5,4 @@ To generate personalized PDFs and attach them to order emails in WooCommerce usi
 > ### Hire Now on Skype: Send a message to `md.kabirhassan2009` on Skype.
 
 > ## How to use(CustomAttachPDF Code Snippets):
-> Buy Now: 
+> ### Buy Now: [Click to Pay $22](https://www.buymeacoffee.com/kabirsplanet/e/232935)
