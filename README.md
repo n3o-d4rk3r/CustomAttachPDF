@@ -7,3 +7,4 @@ To generate personalized PDFs and attach them to order emails in WooCommerce usi
 > ## How to use(CustomAttachPDF Code Snippets):
 
 > ### Buy Now Code Snippets: [Click to Pay $22](https://www.buymeacoffee.com/kabirsplanet/e/232935)
+> ### Documentation: [Go to Doc](https://woo-3.gitbook.io/customattachpdf-documentation/)
